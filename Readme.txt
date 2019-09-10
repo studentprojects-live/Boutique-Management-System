@@ -10,3 +10,5 @@
 **************************************************************
 
 Please Add "ButtonMacam2.ocx" into your .net !. Please enjoy it !.
+
+FOR MORE INFORMATION ABOUT THIS PROJECT REFER : https://www.studentprojectguide.com/visual-basic-6-0/boutique-management-system-project/
