@@ -1,0 +1,2 @@
+E:\BCA Projects\BMS\obj\Debug\Interop.VBRUN.dll
+E:\BCA Projects\BMS\obj\Debug\BMS.vbproj.ResolveComReference.cache
